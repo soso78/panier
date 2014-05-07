@@ -41,7 +41,7 @@ class User {
     
     public function validerPanier() {
 //        var_dump($this->panier);
-        echo 'commit';
+        echo 'commit'; 
         
     }
     
